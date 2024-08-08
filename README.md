@@ -1,4 +1,4 @@
-#DocChat: Where PDFs Open Up to Conversation
+DocChat: Where PDFs Open Up to Conversation
 
 Overview  
 
