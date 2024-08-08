@@ -13,8 +13,8 @@ Document Indexing: Uploaded documents are indexed, allowing for efficient queryi
 
 Requirements 
 
-Python 3.7+
-Streamlit
-OpenAI Python Client
-LlamaIndex
-PyPDF2 
+Python 3.7+  
+Streamlit  
+OpenAI Python Client  
+LlamaIndex  
+PyPDF2   
